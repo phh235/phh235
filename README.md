@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a portfolio**
+ 🔭 I’m currently working with new **tech stack**
  
- 🌱 I’m currently learning **Vue and Pinia**
-
- 💬 Ask me about **Vue, Pinia, Vite, HTML, CSS, JS... or anything [here](https://github.com/phh235/phh235/issues)**
+ 🌱 I’m currently learning **Vue, Pinia and Nuxt**
 
  ⚡ Fun fact **I'm introvert**
+ 
+ 💬 Ask me **[here](https://github.com/phh235/phh235/issues)**
  
  </div>
  
@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,vue,pinia,vite,bootstrap,html,css,javascript,vscode,idea,git,vercel" />
-    <img src="https://skillicons.dev/icons?i=github,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,expressjs,vue,nuxt,pinia,vite,bootstrap,tailwindcss,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,idea,git,vercel,java,mysql" /><br>
 </div>
 
 <br/>
