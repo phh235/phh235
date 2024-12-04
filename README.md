@@ -12,13 +12,10 @@
 
  ⚡ Fun fact **I'm introvert**
  
- 💬 Ask me **[here](https://github.com/phh235/phh235/issues)**
- 
  </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,vue,nuxt,pinia,vite,bootstrap,tailwindcss,html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=github,vscode,idea,git,vercel,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,vue,nuxt,pinia,vite,bootstrap,tailwindcss,javascript,typescript,java,mysql,github" />
 </div>
