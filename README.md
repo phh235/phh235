@@ -7,5 +7,5 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,vue,pinia,nuxt,react,angular,express,vite,bootstrap,tailwindcss,javascript,typescript,java,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,pinia,nuxt,express,spring,vite,bootstrap,tailwindcss,javascript,typescript,java,mysql,github" />
 </div>
