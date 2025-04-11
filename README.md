@@ -4,8 +4,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="175px"/></a>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,vue,pinia,javascript,typescript,spring,java,bootstrap,tailwindcss,mysql,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=react,next,vue,pinia,javascript,typescript,sass,bootstrap,tailwindcss" />
 </div>
