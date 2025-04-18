@@ -6,5 +6,5 @@
  
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,pinia,javascript,typescript,sass,tailwindcss,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,next,redux,vue,nuxt,pinia,javascript,typescript,tailwindcss,sass,bootstrap" />
 </div>
